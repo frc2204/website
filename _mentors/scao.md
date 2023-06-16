@@ -1,6 +1,6 @@
 ---
 name: Sam Cao
-email: ranshen@crosspointacademy.org
+email: samuele.cao@gmail.com
 job: Engineering at Vantage Robotics & CCA Resident Assistant
 year_started: 2022
 tags:
