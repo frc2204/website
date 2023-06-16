@@ -119,17 +119,25 @@ Additionally, the file should include the following front matter:
 | `year_ended`   | The year the person left the team.                                                                    |
 | `tags`         | The tags associated with the person. This is in a form of a hyphenated list                           |
 
+The text below the front matter is the person's biography. Any markdown is valid here.
+
+##### Profile Pictures
+Profile pictures must be a 1:1 ratio. The website will automatically resize the image to fit the page, but the 
+minimum size is 150x150 pixels. 
+
 #### Mentors
+Mentors have a couple extra features that are unique to them. In addition to the front matter above, mentors also have 
+the `position` and `job` front matter.
 
+#### Students
+Students have a couple extra features that mentors don't have. In addition to the front matter above, students also have
+the `graduation_year` and `role` front matter. This will automatically place the proper range of years the student was on the team
+(assuming the student continues to be on the team until they graduated).
 
-
-
-
-
-
-#### Leadership
-#### Members
 #### Alumni
+Alumni have a couple extra features that mentors don't have. In addition to the front matter above, alumni also have `college` and `major` front matter. This will automatically place the proper range of years the student was on the team (assuming the student continues to be on the team until they graduated).
+
+Transitions between students and alumni are not automatic. You will need to manually move the file from the `_members` or `_leadership` directory to the `_alumni` directory.
 
 [markdown]: https://www.markdownguide.org/
 [jekyll]: https://jekyllrb.com/
