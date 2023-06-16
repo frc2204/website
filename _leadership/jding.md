@@ -1,6 +1,7 @@
 ---
 name: James Ding
 email: jamesding24@crosspointacademy.org
+profile_pic: /assets/profile-picture/jding.jpg
 role: Team Captain
 year_started: 2020
 graduation_year: 2024
