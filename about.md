@@ -11,7 +11,7 @@ The mission of [FIRST®][first] is to inspire young people to be science and tec
 
 ## Awards
 # 2023 Creativity Award sponsored by Rockwell Automation
-> "The Creativity Award sponsored by Rockwell Automation celebrates creativity that enhances strategy of play and was intentionally designed and not discovered. When ramming the cube didn't work, this team had to get a grip. THeir flexible claw provided a universal fit when it comes to creativity, this definitely commits. Congratulations Team 2204!"
+> "The Creativity Award sponsored by Rockwell Automation celebrates creativity that enhances strategy of play and was intentionally designed and not discovered. When ramming the cube didn't work, this team had to get a grip. Their flexible claw provided a universal fit when it comes to creativity, this definitely commits. Congratulations Team 2204!"
 
 # 2020 Woodie Flowers Finalist Award (Gary Gin)
 The Woodie Flowers Award celebrates effective communication in the art and science of engineering and design.  Dr. William Murphy founded this prestigious award in 1996 to recognize mentors within the FIRST Robotics Competition who lead, inspire, and empower using excellent communication skills.
