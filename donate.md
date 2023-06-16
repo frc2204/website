@@ -24,7 +24,7 @@ Apart from monetary donations, there are several other ways you can contribute t
 
 Your support, in any form, is greatly appreciated. Together, we can make a positive impact on the lives of those in need.
 
-If you have any questions or need further assistance, please feel free to contact us at [firstrobotics@crosspointacademy.org](mailto:firstrobotics@crosspointacademy.org).
+If you have any questions or need further assistance, please feel free to contact us at [contact@rambots.org](mailto:contact@rambots.org).
 
 If you would like to sponsor our team, click [here](/sponsors).
 
