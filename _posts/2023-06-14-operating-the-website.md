@@ -3,6 +3,7 @@ layout: post
 title:  "Operating the Website"
 date:   2023-06-14 15:46:38 -0700
 categories: team
+author: James Ding
 ---
 This website uses [Markdown][markdown] and [Jekyll][jekyll] to format posts. Markdown is commonly used for formatting
 text on the web, and is used on websites such as Github, Reddit, Stack Overflow, and even Discord.
