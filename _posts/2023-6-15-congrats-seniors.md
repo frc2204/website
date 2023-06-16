@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Congratulations Seniors"
-date:   2023-06-16 4:32:00 -0700
+date:   2023-06-15 21:52:00 -0700
 categories: team
 author: Brian Ding
 ---
