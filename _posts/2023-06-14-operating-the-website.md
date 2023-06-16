@@ -110,14 +110,14 @@ Doey's file would be named `jdoe.md`.
 
 Additionally, the file should include the following front matter:
 
-| Front Matter   | Description                                                                                          |
-|----------------|------------------------------------------------------------------------------------------------------|
-| `name`         | The name of the person. (required)                                                                   |
-| `email`        | The email of the person.                                                                             |
-| `profile_pic`  | The URL to the person's profile picture. This typically would be a file in `/assets/profile-picture/ |
-| `year_started` | The year the person joined the team. (required)                                                      |
-| `year_ended`   | The year the person left the team.                                                                   |
-| `tags`         | The tags associated with the person. This is in a form of a hyphenated list                            |
+| Front Matter   | Description                                                                                           |
+|----------------|-------------------------------------------------------------------------------------------------------|
+| `name`         | The name of the person. (required)                                                                    |
+| `email`        | The email of the person.                                                                              |
+| `profile_pic`  | The URL to the person's profile picture. This typically would be a file in `/assets/profile-picture/` |
+| `year_started` | The year the person joined the team. (required)                                                       |
+| `year_ended`   | The year the person left the team.                                                                    |
+| `tags`         | The tags associated with the person. This is in a form of a hyphenated list                           |
 
 #### Mentors
 
