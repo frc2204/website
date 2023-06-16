@@ -23,7 +23,7 @@ layout: default
     {%- include disqus_comments.html -%}
   {%- endif -%}
 
-  <h5>Page rendered on {{ site.time | date: "%Y-%m-%d %H:%M" }}.</h5>
+  {% include render_time.html %}
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
