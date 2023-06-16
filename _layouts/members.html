@@ -1,3 +1,102 @@
 ---
-layout: default
+layout: page
 ---
+
+{{ content }}
+
+{% assign mentors = site.mentors | sort: "year_started" %}
+{% assign leadership = site.leadership | sort: "priority" %}
+{% assign members = site.members %}
+{% assign alumni = site.alumni %}
+
+<h2>Mentors</h2>
+
+{% for mentor in mentors %}
+  <div class="mentor-banner">
+    {% if mentor.profile_pic %}
+      <img src="/assets/profile/{{ mentor.profile_pic | relative_url }}" alt="{{ mentor.name }}" />
+    {% else %}
+      <img src="{{'/assets/team/default.svg' | relative_url }}" alt="{{ mentor.name }}" />
+    {% endif %}
+    <div class="mentor-info">
+      <div class="mentor-name" ><a href="{{ mentor.url | relative_url }}">{{ mentor.name }}</a></div>
+
+      {% if mentor.position and mentor.job %}
+        <div class="mentor-occupation">{{ mentor.position }} - {{ mentor.job }}</div>
+      {% elsif mentor.position %}
+        <div class="mentor-occupation">{{ mentor.position }}</div>
+      {% elsif mentor.job %}
+        <div class="mentor-occupation">{{ mentor.job }}</div>
+      {% endif %}
+
+      {% if mentor.email %}
+        <span><a href="mailto:{{ mentor.email }}">{{ mentor.email }}</a></span>
+      {% endif %}
+
+      {% if mentor.year_ended %}
+        <span>{{ mentor.year_started }} - {{ mentor.year_ended }}</span>
+      {% else %}
+        <span>{{ mentor.year_started }} - Present </span>
+      {% endif %}
+
+      {% if mentor.tags %}
+        {% for tag in mentor.tags %}
+          <span class="user-tag">{{ tag | upcase }}</span>
+        {% endfor %}
+      {% endif %}
+
+      <p>{{ mentor.content }}</p>
+    </div>
+  </div>
+
+{% endfor %}
+
+
+<h2>Student Leadership</h2>
+
+<div class="leader-container">
+  {% for leader in leadership %}
+  <div class="leader-banner">
+    <div class="img-container">
+      {% if leader.profile_pic %}
+      <img src="{{ leader.profile_pic | relative_url }}" alt="{{ leader.name }}" />
+      {% else %}
+      <img src="{{'/assets/team/default.svg' | relative_url }}" alt="{{ leader.name }}" />
+      {% endif %}
+    </div>
+    <div class="leader-info">
+      <div class="leader-name" ><a  href="{{ leader.url | relative_url }}">{{ leader.name }}</a></div>
+
+      <div>{{ leader.role }}</div>
+
+      <div>
+          {% if leader.year_ended %}
+          <span>{{ leader.year_started }} - {{ leader.year_ended }}</span>
+          {% else %}
+          <span>{{ leader.year_started }} - {{ leader.graduation_year }}</span>
+          {% endif %}
+      </div>
+
+      {% if leader.email %}
+      <span><a href="mailto:{{ leader.email }}">{{ leader.email }}</a></span>
+      {% endif %}
+
+      <div class="leader-tags">
+        {% if leader.tags %}
+        {% for tag in leader.tags %}
+        <span class="user-tag">{{ tag | upcase }}</span>
+        {% endfor %}
+        {% endif %}
+      </div>
+
+      <p>{{ leader.content }}</p>
+    </div>
+  </div>
+
+  {% endfor %}
+</div>
+<h2>Members</h2>
+
+<h2>Alumni</h2>
+
+{% include render_time.html %}
