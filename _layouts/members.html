@@ -78,7 +78,7 @@ layout: page
       </div>
 
       {% if leader.email %}
-      <span><a href="mailto:{{ leader.email }}">{{ leader.email }}</a></span>
+      <span><a href="mailto:{{ leader.email }}">{{ leader.email | truncate: 30}}</a></span>
       {% endif %}
 
       <div class="leader-tags">
