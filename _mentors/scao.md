@@ -1,6 +1,5 @@
 ---
 name: Sam Cao
-email: samuele.cao@gmail.com
 job: Engineering at Vantage Robotics & CCA Resident Assistant
 year_started: 2022
 tags:
