@@ -361,13 +361,13 @@
   }
 }
 
-.leader-container {
+.member-container {
 
   display: flex;
   flex-wrap: wrap;
   width: 100%;
 
-  .leader-banner {
+  .member-banner {
     width: 31%;
     padding: 0 1%;
 
@@ -382,9 +382,9 @@
       }
     }
 
-    .leader-info {
+    .member-info {
 
-      .leader-name {
+      .member-name {
         font-size: 24px;
 
         a {
@@ -393,7 +393,7 @@
 
       }
 
-      .leader-role {
+      .member-role {
 
       }
 
@@ -402,7 +402,7 @@
         padding-right: 8px;
       }
 
-      .leader-tags {
+      .member-tags {
         margin: 4px 0;
 
         .user-tag {
@@ -427,4 +427,8 @@
   border-radius: 4px;
   margin: 0 2px;
   font-size: 11px;
+}
+
+.alumni-college {
+  color: $brand-color
 }

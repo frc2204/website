@@ -35,6 +35,8 @@ github_username: frc2204
 rss: RSS Feed
 tba: 2204
 
+member_bio_length: 100
+
 # Build settings
 theme: minima
 plugins:
@@ -44,6 +46,10 @@ collections:
   mentors:
     output: true
   leadership:
+    output: true
+  members:
+    output: true
+  alumni:
     output: true
 
 defaults:
@@ -57,6 +63,17 @@ defaults:
       type: "leadership"
     values:
       layout: "member"
+  - scope:
+      path: ""
+      type: "members"
+    values:
+      layout: "member"
+  - scope:
+      path: ""
+      type: "alumni"
+    values:
+      layout: "member"
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
