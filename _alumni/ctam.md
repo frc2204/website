@@ -2,6 +2,7 @@
 name: Caleb Tam
 graduation_year: 2023
 college: University of the Pacific
+major: Pre-Pharmacy Advancement Program
 roles:
   - business
 ---

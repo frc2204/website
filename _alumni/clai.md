@@ -2,6 +2,7 @@
 name: Christine Lai
 graduation_year: 2023
 college: University of Southern California
+major: Computer Science & Arts, Technology, and the Business of Innovation
 roles:
   - co-captain
 ---
