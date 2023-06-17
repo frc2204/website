@@ -11,5 +11,4 @@ tags:
   - software
   - build
 ---
-hi! this is my second year as team captain, i'm looking forward to this 2023-2024 season. i enjoy listening to music, 
-coding, and playing games.
+do cs students shower? no, they just git commit, force merge, and run :)
