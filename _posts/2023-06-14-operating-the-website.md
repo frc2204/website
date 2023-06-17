@@ -98,46 +98,57 @@ folder. Other than that, you should be good to go!
 Updating members is a slightly more complicated and time consuming process. In order to update members, you need to edit
 individual markdown files in the `_mentors`, `_leadership`, `_members`, and `_alumni` directories.
 
-#### General Pattern
-
-To add a new member, create a new markdown file in the appropriate directory. The file should be named according to the
-following format:
-
-`FLASTNAME.md`
-
-Where `F` is the first letter of the mentor's first name, and `LASTNAME` is the mentor's last name. For example, John
-Doey's file would be named `jdoe.md`.
-
-Additionally, the file should include the following front matter:
-
-| Front Matter   | Description                                                                                           |
-|----------------|-------------------------------------------------------------------------------------------------------|
-| `name`         | The name of the person. (required)                                                                    |
-| `email`        | The email of the person.                                                                              |
-| `profile_pic`  | The URL to the person's profile picture. This typically would be a file in `/assets/profile-picture/` |
-| `year_started` | The year the person joined the team. (required)                                                       |
-| `year_ended`   | The year the person left the team.                                                                    |
-| `tags`         | The tags associated with the person. This is in a form of a hyphenated list                           |
-
-The text below the front matter is the person's biography. Any markdown is valid here.
-
-##### Profile Pictures
-Profile pictures must be a 1:1 ratio. The website will automatically resize the image to fit the page, but the 
-minimum size is 150x150 pixels. 
-
 #### Mentors
-Mentors have a couple extra features that are unique to them. In addition to the front matter above, mentors also have 
-the `position` and `job` front matter.
+Mentors have the following attributes. Note that most attributes are optional, but it is recommended to fill out as much
+as possible.
 
-#### Students
-Students have a couple extra features that mentors don't have. In addition to the front matter above, students also have
-the `graduation_year` and `role` front matter. This will automatically place the proper range of years the student was on the team
-(assuming the student continues to be on the team until they graduated).
+| Front Matter   | Description                                                                               |
+|----------------|-------------------------------------------------------------------------------------------|
+| `profile_pic`  | URL or path to the picture of a mentor. If not specified, the default avatar will be used |
+| `name`         | The name of the mentor (required)                                                         |
+| `position`     | The position of the mentor within the team                                                |
+| `job`          | The mentor's job outside of the team                                                      |
+| `email`        | The mentor's email address                                                                |
+| `year_started` | The year the mentor started mentoring the team                                            |
+| `year_ended`   | The year the mentor stopped mentoring the team                                            |
+| `tags`         | A list of tags that describe which skills a mentor is familiar with                       |
+
+The content after the front matter is the mentor's biography. This is just standard Markdown.
+
+#### Leadership & Members
+Leadership and members have the following attributes. Note that most attributes are optional, but it is recommended to fill out as much
+as possible.
+
+| Front Matter      | Description                                                                                                                                                  |
+|-------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `profile_pic`     | URL or path to the picture of a leadership member. If not specified, the default avatar will be used                                                         |
+| `name`            | The name of the leadership/member (required)                                                                                                                 |
+| `role`            | The role of the leadership/member within the team                                                                                                            |
+| `graduation_year` | The year the leadership/member will graduate (required)                                                                                                      |
+| `year_started`    | The year the leadership/member joined the team                                                                                                               |
+| `year_ended`      | The year the leadership/member left the team                                                                                                                 |
+| `email`           | The email of the leadership/member                                                                                                                           |
+| `tags`            | A list of tags that describe which skills a leadership/member is familiar with. For leadership, there is the option of `CORE`, for core leadership position. |
+
+
+The content after the front matter is the leadership/member's biography. This is just standard Markdown. This is truncated at
+{{ site.member_bio_length }} characters.
 
 #### Alumni
-Alumni have a couple extra features that mentors don't have. In addition to the front matter above, alumni also have `college` and `major` front matter. This will automatically place the proper range of years the student was on the team (assuming the student continues to be on the team until they graduated).
+Alumni have the following attributes. Note that most attributes are optional, but it is recommended to fill out as much
+as possible.
 
-Transitions between students and alumni are not automatic. You will need to manually move the file from the `_members` or `_leadership` directory to the `_alumni` directory.
+| Front Matter      | Description                                                                                 |
+|-------------------|---------------------------------------------------------------------------------------------|
+| `profile_pic`     | URL or path to the picture of the alumni. If not specified, the default avatar will be used |
+| `name`            | The name of the alumni (required)                                                           |
+| `major`           | The major of the alumni                                                                     |
+| `college`         | The college the alumni attended                                                             |
+| `graduation_year` | The year the alumni graduated                                                               |
+| `roles`           | A list of roles the alumni had within the team                                              |
+
+The content after the front matter is the alumni's biography. This is just standard Markdown. This is truncated at
+{{ site.member_bio_length }} characters.
 
 [markdown]: https://www.markdownguide.org/
 [jekyll]: https://jekyllrb.com/

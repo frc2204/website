@@ -10,7 +10,9 @@ author: James Ding
 We won the creativity award for our TPU claw idea/design! We’ll try to have business team turn that into a potential sponsorship from Bambu Labs?
 
 ![team photo](/assets/charged-up-2023/team-photo.png)
+
 ![award photo](/assets/charged-up-2023/award-photo.png)
+
 ![ceremony](/assets/charged-up-2023/ceremony.png)
 
 ## Rank
