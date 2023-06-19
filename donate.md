@@ -7,11 +7,13 @@ Thank you for considering a donation to support our cause! Your generosity helps
 
 ## One-Time Donation
 
-If you would like to make a one-time donation, please visit **[this page](https://www.buymeacoffee.com/rambots2204)**. Your one-time contribution will go a long way in helping us achieve our goals.
+> In order for the donations to go to the robotics team, add the note **"FIRST Robotics"**.
+
+You can donate through our school's PayPal page **[here](https://www.paypal.com/donate/?hosted_button_id=EDZYYQA8H83WY)**. Your one-time contribution will go a long way in helping us achieve our goals.
 
 ## Recurring Donation
 
-If you prefer to make a recurring donation, we offer a membership program that allows you to contribute on an ongoing basis. By becoming a member, you can provide sustained support to our team and you also get extra perks. To make a recurring donation, please visit **[this page](https://www.buymeacoffee.com/rambots2204/membership)**.
+Coming soon.
 
 ## Other Ways to Contribute
 
