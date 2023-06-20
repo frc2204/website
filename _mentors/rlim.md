@@ -1,6 +1,5 @@
 ---
 name: Rodney Lim
-email: rodney.lim@bacbc.org
 year_started: 2014
 tags:
   - electrical
