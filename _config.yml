@@ -43,6 +43,8 @@ plugins:
   - jekyll-feed
 
 collections:
+  schedules:
+    output: true
   mentors:
     output: true
   leadership:
@@ -52,7 +54,13 @@ collections:
   alumni:
     output: true
 
+
 defaults:
+  - scope:
+      path: ""
+      type: "schedules"
+    values:
+      layout: "page"
   - scope:
       path: ""
       type: "mentors"
