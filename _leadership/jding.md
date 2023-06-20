@@ -11,4 +11,4 @@ tags:
   - software
   - build
 ---
-do cs students shower? no, they just git commit, force merge, and run :)
+last year here, 2nd year as team captain. programming nerd, av enthusiast, academic weapon. i do 3d printing, mech keys, and other software stuff.
