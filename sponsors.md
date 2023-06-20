@@ -8,8 +8,13 @@ opportunity to become the STEM leaders of the future.
 
 If you are interested in sponsoring us, please [contact us](contact.md) and see our [sponsorship packet][sponsorship-packet].
 
+## Donations
+If you would like to donate to our team, please see our [donation page](/donate).
+
 # School Sponsor
 {% include school-sponsor.html %}
+
+
 
 ## Gold Ram ($2499+)
 

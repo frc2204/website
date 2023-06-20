@@ -2,6 +2,7 @@
 layout: page
 title: Donate
 permalink: /donate/
+hidden: true
 ---
 Thank you for considering a donation to support our cause! Your generosity helps us make a difference in the community.  We rely on the support of our community to fund our expenses for building and competing with our robot, as well as for travel to competitions. With your support, we can strengthen our team and fuel our drive to succeed. We are grateful for any support that you can provide, and we hope to make you proud as we compete against teams from around the world.
 
