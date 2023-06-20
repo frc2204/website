@@ -5,7 +5,7 @@ permalink: /contact/
 hidden: true
 ---
 # Email
-contact@rambots.org
+{{ site.email }}
 # Mailing Address
 California Crosspoint Academy
 <br>
