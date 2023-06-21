@@ -333,6 +333,11 @@
     padding: 20px;
     border-radius: 50%;
     margin-right: 20px;
+
+    @media (max-width: $on-palm) {
+      width: 80px;
+      height: auto;
+    }
   }
 
   .mentor-info {
@@ -417,6 +422,9 @@
 
     }
 
+    @media (max-width: $on-laptop) {
+      width: 48%;
+    }
 
   }
 }
