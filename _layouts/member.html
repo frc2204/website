@@ -2,4 +2,77 @@
 layout: default
 ---
 
-<h1>{{ page.name }}</h1>
+<div class="wide-banner">
+    <div class="wide-info">
+        <h1>{{ page.name }}</h1>
+
+        {% if page.position and page.job %}
+        <div class="wide-occupation">{{ page.position }} - {{ page.job }}</div>
+        {% elsif page.position %}
+        <div class="wide-occupation">{{ page.position }}</div>
+        {% elsif page.job %}
+        <div class="wide-occupation">{{ page.job }}</div>
+        {% endif %}
+
+        {% if page.role %}
+        <div class="wide-occupation">{{ page.role }}</div>
+        {% endif %}
+
+        <div class="alumni-college">
+            {% if page.major %}
+            <div> {{ page.major | truncate: 32 }}</div>
+            {% endif %}
+
+            {% if page.college %}
+            <span class="pageni-college"> {{ page.college }} </span>
+            {% endif %}
+        </div>
+
+        {% if page.email %}
+        <span><a href="mailto:{{ page.email }}">{{ page.email }}</a></span>
+        {% endif %}
+
+
+
+        {% if page.year_ended %}
+        <span>{{ page.year_started }} - {{ page.year_ended }}</span>
+        {% elsif page.graduation_year %}
+        <span>Class of {{ page.graduation_year }} {% if page.year_started %}| Joined {{ page.year_started }} {% endif %} </span>
+        {% else %}
+        <span>{{ page.year_started }} - Present </span>
+        {% endif %}
+
+        <div class="tag-container">
+            {% if page.tags %}
+            {% for tag in page.tags %}
+            <span class="user-tag">{{ tag | upcase }}</span>
+            {% endfor %}
+            {% endif %}
+        </div>
+
+    </div>
+    <div class="wide-image">
+        {% if page.profile_pic %}
+        <img src="{{ page.profile_pic | relative_url }}" alt="{{ page.name }}" />
+        {% else %}
+        <img src="{{'/assets/team/default.svg' | relative_url }}" alt="{{ leader.name }}" />
+        {% endif %}
+    </div>
+</div>
+{{ content }}
+
+{% assign posts = site.posts | where: "author", page.name %}
+
+{% if posts.size > 0 %}
+    {% assign posts = posts | sort: "date" | reverse %}
+    <h2>Posts by {{ page.name }}</h2>
+    {% for post in posts %}
+        <div class="card">
+            {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+            <h2><a href="{{ post.url | relative_url }}">{{ post.title }} - {{ post.date | date: date_format }}  </a></h2>
+            <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
+        </div>
+    {% endfor %}
+{% else %}
+    <h2>No posts by {{ page.name }}</h2>
+{% endif %}

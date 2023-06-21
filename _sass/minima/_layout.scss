@@ -321,12 +321,12 @@
 }
 
 
-.mentor-banner {
+.wide-banner {
   display: flex;
   align-items: center;
   margin-bottom: 20px;
 
-  img {
+  img, .wide-image {
     flex-shrink: 0;
     width: 150px;
     height: auto;
@@ -340,11 +340,11 @@
     }
   }
 
-  .mentor-info {
+  .wide-info {
     flex-grow: 1;
     justify-content: center;
 
-    .mentor-name {
+    .wide-name {
       font-size: 24px;
 
       a {
@@ -352,7 +352,7 @@
       }
     }
 
-    .mentor-occupation {
+    .wide-occupation {
       font-size: 16px;
     }
 
@@ -429,6 +429,10 @@
   }
 }
 
+.tag-container {
+  margin: 10px 0;
+}
+
 .user-tag {
   padding: 3px 4px;
   background-color: #c7c7c7;
@@ -439,4 +443,11 @@
 
 .alumni-college {
   color: $brand-color
+}
+
+.card {
+  background-color: $grey-color-light;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  padding: 30px 30px;
 }

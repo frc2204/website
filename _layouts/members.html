@@ -12,21 +12,21 @@ layout: page
 <h2 id="mentors">Mentors</h2>
 
 {% for mentor in mentors %}
-  <div class="mentor-banner">
+  <div class="wide-banner">
     {% if mentor.profile_pic %}
       <img src="/assets/profile/{{ mentor.profile_pic | relative_url }}" alt="{{ mentor.name }}" />
     {% else %}
       <img src="{{'/assets/team/default.svg' | relative_url }}" alt="{{ mentor.name }}" />
     {% endif %}
-    <div class="mentor-info">
-      <div class="mentor-name" ><a href="{{ mentor.url | relative_url }}">{{ mentor.name }}</a></div>
+    <div class="wide-info">
+      <div class="wide-name" ><a href="{{ mentor.url | relative_url }}">{{ mentor.name }}</a></div>
 
       {% if mentor.position and mentor.job %}
-        <div class="mentor-occupation">{{ mentor.position }} - {{ mentor.job }}</div>
+        <div class="wide-occupation">{{ mentor.position }} - {{ mentor.job }}</div>
       {% elsif mentor.position %}
-        <div class="mentor-occupation">{{ mentor.position }}</div>
+        <div class="wide-occupation">{{ mentor.position }}</div>
       {% elsif mentor.job %}
-        <div class="mentor-occupation">{{ mentor.job }}</div>
+        <div class="wide-occupation">{{ mentor.job }}</div>
       {% endif %}
 
       {% if mentor.email %}
