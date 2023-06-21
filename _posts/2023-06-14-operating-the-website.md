@@ -106,8 +106,8 @@ as possible.
 |----------------|-------------------------------------------------------------------------------------------|
 | `profile_pic`  | URL or path to the picture of a mentor. If not specified, the default avatar will be used |
 | `name`         | The name of the mentor (required)                                                         |
-| `position`     | The position of the mentor within the team                                                |
-| `job`          | The mentor's job outside of the team                                                      |
+| `position`     | The position of the mentor (job or team)                                                  |
+| `job`          | The company the mentor works at                                                           |
 | `email`        | The mentor's email address                                                                |
 | `year_started` | The year the mentor started mentoring the team                                            |
 | `year_ended`   | The year the mentor stopped mentoring the team                                            |
