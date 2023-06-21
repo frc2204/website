@@ -1,7 +1,8 @@
 ---
 name: Gary Gin
 email: garygin@berkeley.edu
-job: UC Berkeley Jacobs Hall Design Specialist
+position: Jacobs Hall Design Specialist
+job: UC Berkeley 
 year_started: 2007
 tags:
   - build
