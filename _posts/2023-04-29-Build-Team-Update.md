@@ -3,7 +3,7 @@ layout: post
 title:  "Weekly Build Team Mentor Update"
 date:   2023-04-29 00:00:00 -0700
 categories: mentors
-author: James Ding
+author: Ethan Wu
 ---
 
 # 4/29/23 Build Team Update
