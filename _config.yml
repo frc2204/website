@@ -56,9 +56,15 @@ collections:
     output: true
   alumni:
     output: true
-
+  resources:
+    output: true
 
 defaults:
+  - scope:
+      path: ""
+      type: "resources"
+    values:
+      layout: "resource"
   - scope:
       path: ""
       type: "schedules"
@@ -84,6 +90,7 @@ defaults:
       type: "alumni"
     values:
       layout: "member"
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
