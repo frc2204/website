@@ -22,4 +22,4 @@ Our mentor, Gary Gin, won this award at the 2020: Infinite Recharge competition.
 Originating in San Leandro, Team 2204 was established by students who sought to inspire others in STEM fields and build engineering skills that would last a lifetime.
 
 
-[first]: https://www.firstinspires.org/robotics/frc
+[first]: /about/first/
