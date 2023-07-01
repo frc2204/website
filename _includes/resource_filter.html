@@ -1,0 +1,9 @@
+{% for resource in site.resources %}
+    {% assign cat = include.category | downcase %}
+    {% if resource.categories contains include.category %}
+        <div class="card">
+            <h1><a href="{{ resource.url | relative_url }}">{{ resource.title }}</a></h1>
+            <p>{{ resource.excerpt | strip_html | truncate: 160 }}</p>
+        </div>
+    {% endif %}
+{% endfor %}
