@@ -4,7 +4,7 @@ categories:
   - fabrication
 author: Ethan Wu
 ---
-## **Introduction**
+## Introduction:
 
 A drill press is a powerful tool used for drilling precise holes in various materials such as wood, metal, and plastic. This document provides instructions on how to safely and effectively operate a drill press.
 
