@@ -24,13 +24,17 @@ A drill press is a powerful tool used for drilling precise holes in various mate
 
 - **Motor**: Powers the drill press.
 - **Drill Chuck**: Holds the drill bit securely in place.
+- **Chuck Key**: Use this to tighten the chuck in place.
 - **Spindle**: Rotates the drill bit.
 - **Quill**: Moves up and down, allowing the drill bit to penetrate the material.
 - **Depth Stop**: Sets the desired drilling depth.
 - **Table**: Supports the workpiece and can be adjusted vertically and horizontally.
 - **Column**: Vertical support structure that connects the base and head of the drill press.
+- **Saftey Switch**: This is a piece of plastic that is needed to turn on the drill press.
 
-![https://iamkenwilliams.files.wordpress.com/2013/12/drillpress.jpg](https://iamkenwilliams.files.wordpress.com/2013/12/drillpress.jpg)
+> **Do not lose the safety switch and remove after use.**
+
+![Diagram of Drill Press](https://media.discordapp.net/attachments/898001388288741426/1126400014185410580/drillpress.png)
 
 **3. Drill Bit Selection**
 

@@ -24,9 +24,10 @@ Power drills are an essential tool in robotics , enabling the team to drill hole
 - Forward/reverse switch: Allows for clockwise and counterclockwise rotation.
 - Handle: Provides a firm grip and control during operation.
 - Battery pack or power cord: Supplies power to the drill.
+- Torque Ring: This is located right behind the chuck, and is used to control the amount of [torque](https://en.wikipedia.org/wiki/Torque) on the object you're screwing. This is not used when drilling holes. 
 
-![https://www.wonkeedonkeetools.co.uk/wp-content/uploads/2019/09/Cordless-Drill-1.jpg](https://www.wonkeedonkeetools.co.uk/wp-content/uploads/2019/09/Cordless-Drill-1.jpg)
-
+![Cordless Drill Diagram](https://cdn.discordapp.com/attachments/898001388288741426/1126403283834130432/Cordless-Drill-1.png)
+> Please note that we have a Makita Drill
 
 **3. Drill Bit Selection**
 - Choose the appropriate drill bit based on the material to be drilled (wood, metal, plastic, etc.).
