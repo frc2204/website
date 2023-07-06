@@ -30,6 +30,7 @@ A drill press is a powerful tool used for drilling precise holes in various mate
 - **Table**: Supports the workpiece and can be adjusted vertically and horizontally.
 - **Column**: Vertical support structure that connects the base and head of the drill press.
 
+![https://iamkenwilliams.files.wordpress.com/2013/12/drillpress.jpg](https://iamkenwilliams.files.wordpress.com/2013/12/drillpress.jpg)
 
 **3. Drill Bit Selection**
 
