@@ -80,4 +80,4 @@ Solution: Check the power source or battery pack for proper connection and charg
 
 **9. Conclusion**
 
-By following the guidelines outlined in this power drill usage guide, our robotics team members can safely and effectively utilize this essential tool. Remember to prioritize safety, select the appropriate drill bit for the material being worked on. Remember to put the drill back where you found it. Happy drilling!
+By following the guidelines outlined in this power drill usage guide, our robotics team members can safely and effectively utilize this essential tool. Remember to prioritize safety, select the appropriate drill bit for the material being worked on. Remember to put the drill back where you found it. The power drill is a very versitile tool that you can use to make holes and screw in screws anywhere. Happy drilling!

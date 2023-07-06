@@ -79,4 +79,4 @@ A drill press is a powerful tool used for drilling precise holes in various mate
 
 **8. Conclusion**
 
-By following the guidelines outlined in this documentation, you can safely and effectively use a drill press for a variety of drilling tasks. Remember to prioritize safety, select the appropriate drill bit for the material, and perform regular maintenance to keep the drill press in good working condition. Happy drilling!
+By following the guidelines outlined in this documentation, you can safely and effectively use a drill press for a variety of drilling tasks. Remember to prioritize safety, select the appropriate drill bit for the material, and perform regular maintenance to keep the drill press in good working condition. You should use a drill press over a regular drill when you want to create precise 90° holes, or repetitive holes, as it is more efficient. Happy drilling!
