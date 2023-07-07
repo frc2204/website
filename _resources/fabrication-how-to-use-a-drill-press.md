@@ -32,7 +32,7 @@ A drill press is a powerful tool used for drilling precise holes in various mate
 - **Column**: Vertical support structure that connects the base and head of the drill press.
 - **Saftey Switch**: This is a piece of plastic that is needed to turn on the drill press.
 
-> **Do not lose the safety switch and remove after use.**
+>Do not lose the safety switch and remove after use.
 
 ![Diagram of Drill Press](https://media.discordapp.net/attachments/898001388288741426/1126400014185410580/drillpress.png)
 
