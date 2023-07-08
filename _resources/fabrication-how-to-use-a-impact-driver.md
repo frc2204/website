@@ -1,5 +1,5 @@
 ---
-title: How to use a Power Drill
+title: How to use an Impact Driver
 categories: 
   - fabrication
 author: Ethan Wu
