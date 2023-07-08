@@ -26,7 +26,7 @@ An impact driver is a versatile power tool that is primarily used for driving sc
 - **Battery pack**: Supplies power to the impact driver.
 ![Diagram of a impact driver](https://cdn.discordapp.com/attachments/983922080879869962/1127040973503987712/CID-3-1.png)
 
-**3. Bit or Socket Selection **
+**3. Bit or Socket Selection**
 
 - Choose the appropriate screwdriver bit or socket based on the type and size of the fastener.
 - Ensure the bit or socket is securely inserted and locked into the chuck.
