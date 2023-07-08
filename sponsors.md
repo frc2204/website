@@ -14,9 +14,7 @@ If you would like to donate to our team, please see our [donation page](/donate)
 # School Sponsor
 {% include school-sponsor.html %}
 
-
-
-## Gold Ram ($2499+)
+## Gold Ram ($2500+)
 
 {% include gold-ram-sponsor.html name="Analog Devices" img_url="../assets/sponsors/analog.svg" content="Analog Devices is a leading semiconductor company that specializes in designing and manufacturing a wide range of integrated circuits and solutions for analog and digital signal processing applications." url="https://www.analog.com/" %}
 
@@ -41,4 +39,4 @@ If you would like to donate to our team, please see our [donation page](/donate)
 </div>
 
 [contact]: /contact.md/
-[sponsorship-packet]: /assets/rambots_sponsorship_packet.pdf
+[sponsorship-packet]: https://cdn.discordapp.com/attachments/1098412608987603035/1127386667221782538/RamBots_Sponsorship_Packet.pdf
