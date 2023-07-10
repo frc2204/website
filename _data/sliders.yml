@@ -1,0 +1,18 @@
+- selector: home_slider
+  captions: true
+  images:
+    - data-src: https://cdn.discordapp.com/attachments/983922080879869962/1127408161733754920/CreativityAward.jpg
+      title: FIRST Robotics Competition - Sacramento Regional 2023
+      alt: The 2204 Rambots is awarded with the Creativity Award
+    - data-src: https://cdn.discordapp.com/attachments/1068751121960685628/1127874977971056640/Inspiring.jpg
+      title: Inspiring the Next Generation of Students
+    - data-src: https://cdn.discordapp.com/attachments/1068751121960685628/1127876167182069760/2023Robot.jpg
+      title: 2022-2023 Season Robot
+      alt: Our team's robot competition robot at the Sacramento Regional
+    - data-src: https://cdn.discordapp.com/attachments/1068751121960685628/1127877406309503066/2023TeamPhoto.jpg
+      title: 2022-2023 Team Photo
+      alt: The 2204 Rambots team photo at the Sacramento Regional
+  settings:
+    height: "'auto'"
+    effect: "'slide'"
+    interval: 4000
