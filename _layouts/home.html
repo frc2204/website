@@ -1,12 +1,17 @@
 ---
 layout: default
+image_sliders:
+  - home_slider
 ---
 
 <div class="home">
 
-  <h1 class="page-heading">{{ site.home_header }}</h1>
 
-  {{ content }}
+  <h1 class="page-heading">{{ site.home_header }}</h1>
+  <div>
+    {{ content }}
+  </div>
+
 
   {%- if site.posts.size > 0 -%}
     <h2 class="post-list-heading">{{ page.list_title | default: "Recent Posts" }}</h2>
