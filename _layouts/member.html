@@ -20,11 +20,11 @@ layout: default
 
         <div class="alumni-college">
             {% if page.major %}
-            <div> {{ page.major | truncate: 32 }}</div>
+            <div> {{ page.major }}</div>
             {% endif %}
 
             {% if page.college %}
-            <span class="pageni-college"> {{ page.college }} </span>
+            <span>{{ page.college }} </span>
             {% endif %}
         </div>
 
