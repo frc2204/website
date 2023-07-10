@@ -1,6 +1,5 @@
 ---
 name: Suhan Tan
-role: Business
 graduation_year: 2023
 college: University of California, Los Angeles
 major: Business Economics & Statistics Data Science
