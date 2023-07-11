@@ -16,3 +16,25 @@
     height: "'auto'"
     effect: "'slide'"
     interval: 4000
+- selector: sponsor_slider
+  captions: false
+  images:
+    - data-src: https://cdn.discordapp.com/attachments/1098412608987603035/1128104254331170826/analog_banner.png
+      title: Analog Devices
+      alt: Analog Devices
+    - data-src: https://cdn.discordapp.com/attachments/1098412608987603035/1128104254599593994/bae_banner.png
+      title: BAE Systems
+      alt: BAE Systems
+    - data-src: https://cdn.discordapp.com/attachments/1098412608987603035/1128104255035814008/gene_banner.png
+      title: Gene Haas Foundation
+      alt: Gene Haas Foundation
+    - data-src: https://cdn.discordapp.com/attachments/1098412608987603035/1128104255245516942/minuteman_banner.png
+      title: Minuteman Press
+      alt: Minuteman Press
+    - data-src: https://cdn.discordapp.com/attachments/1098412608987603035/1128104254813524138/boku_banner.png
+      title: Boku
+      alt: Boku
+  settings:
+    height: "'auto'"
+    effect: "'fade'"
+    interval: 2500
