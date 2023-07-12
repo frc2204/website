@@ -76,28 +76,3 @@ layout: default
 {% else %}
     <h2>No posts by {{ page.name }}</h2>
 {% endif %}
-
-{% assign resources = site.resources %}
-{% assign hasResourced = false %}
-
-{% for resource in resources %}
-    {% if resource.author == page.name %}
-        {% assign hasResourced = true %}
-    {% endif %}
-{% endfor %}
-
-{% if hasResourced %}
-{% assign resources = resources | sort: "date" | reverse %}
-<h2>Resources by {{ page.name }}</h2>
-{% for resource in resources %}
-{% if resource.author != page.name %}
-{% continue %}
-{% endif %}
-<div class="card">
-    <h2><a href="{{ resource.url | relative_url }}">{{ resource.title }}</a></h2>
-    <p>{{ resource.excerpt | strip_html | truncate: 160 }}</p>
-</div>
-{% endfor %}
-{% else %}
-<h2>No resources by {{ page.name }}</h2>
-{% endif %}
