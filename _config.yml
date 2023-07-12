@@ -37,7 +37,7 @@ tba: 2204
 first_num: 2204
 
 github: [metadata]
-resource_url: https://docs.rambots.org/
+docs_url: https://docs.rambots.org/
 
 member_bio_length: 100
 
