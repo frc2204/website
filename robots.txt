@@ -4,4 +4,3 @@ Disallow: /
 Allow: /$
 Allow: /about
 Allow: /sponsors
-Allow: /resources

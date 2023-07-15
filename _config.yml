@@ -37,6 +37,7 @@ tba: 2204
 first_num: 2204
 
 github: [metadata]
+docs_url: https://docs.rambots.org/
 
 member_bio_length: 100
 
@@ -56,15 +57,8 @@ collections:
     output: true
   alumni:
     output: true
-  resources:
-    output: true
 
 defaults:
-  - scope:
-      path: ""
-      type: "resources"
-    values:
-      layout: "resource"
   - scope:
       path: ""
       type: "schedules"
