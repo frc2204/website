@@ -17,7 +17,7 @@ We won the creativity award for our TPU claw idea/design! We’ll try to have bu
 
 ## Rank
 
-Rank 21/46 with a 6-4-0 record. Though were weren’t selected for playoffs, we were backup #2 and were almost selected to fill in for Finals #2.
+Rank 21/46 with a 6-4-0 record. Though were were not selected for playoffs, we were backup #2 and were almost selected to fill in for Finals #2.
 
 Team 2204 currently ranks 1249/3306 worldwide, 1087/2694 nationally, and 111/270 state-wide. We were holding top 15 for more than half the time in qualifications though
 ![rank](https://i.ibb.co/PCvF3Gg/rank.png)
