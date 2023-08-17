@@ -36,7 +36,6 @@ rss: RSS Feed
 tba: 2204
 first_num: 2204
 
-github: [metadata]
 docs_url: https://docs.rambots.org/
 
 member_bio_length: 100
@@ -47,8 +46,6 @@ plugins:
   - jekyll-feed
 
 collections:
-  schedules:
-    output: true
   mentors:
     output: true
   leadership:
@@ -59,11 +56,6 @@ collections:
     output: true
 
 defaults:
-  - scope:
-      path: ""
-      type: "schedules"
-    values:
-      layout: "page"
   - scope:
       path: ""
       type: "mentors"

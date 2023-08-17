@@ -3,9 +3,3 @@ layout: page
 ---
 
 {{ content }}
-
-{% assign schedules = site.schedules %}
-
-{% for schedule in schedules %}
-<a href="{{ schedule.url | relative_url }}"><h2>{{ schedule.title }}</h2></a>
-{% endfor %}
