@@ -1,7 +1,7 @@
 ---
 layout: schedules
 title: Schedule
-permalink: /schedules/
+permalink: /schedule/
 ---
 See the current schedule.
 
