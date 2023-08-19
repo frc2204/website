@@ -9,11 +9,11 @@ hidden: true
 
 ![banner](https://cdn.discordapp.com/attachments/1139775932127789137/1142308556092215296/Innovate_Beyond.png)
 
-Registration to join the team is now open for the 2022-2023 season! Students enrolled at California Crosspoint High School and Redwood Christian High School are eligible to join the team.
+Registration to join the team is now open for the 2023-2024 season! Students enrolled at California Crosspoint High School and Redwood Christian High School are eligible to join the team.
 
 **No prior experience or knowledge is required. All knowledge will be taught to members during pre-season.**
 
-The team is entirely student-led, with help from our experienced [mentors](/members#mentors) and teachers. The season begins in early January and ends mid-March. However, students are expected to attend pre-season meetings and workshops. During the season, you can expect **~23 hours of meetings every week**. Members must be able to **attend a minimum 70% of all meetings (~16 hours)**, otherwise the member will be ineligible for the 50% trip cost discount.
+The team is entirely student-led, with help from our experienced [mentors](/members#mentors) and teachers. The season begins in early January and ends mid-March. However, students are expected to attend pre-season meetings and workshops. During the season, you can expect **~23 hours of meetings every week**. Members must be able to **attend a minimum 70% of all meetings (~16 hours)**.
 
 During each season, which falls between March and April, our team anticipates participating in 2-3 of the following competitions:
 
@@ -22,7 +22,7 @@ During each season, which falls between March and April, our team anticipates pa
 
 #### Costs
 
-The cost to join the team is $500, which covers the cost of team registration, materials, tools, trip costs\*, and other expenses. However, we do not want the fee to be a barrier to entry, so we offer financial assistance to waive the fee for students who need it. If you need financial aid, please reach out to one of the mentors.
+The cost to join the team is $400, which covers the cost of team registration, materials, tools, and other expenses. However, we do not want the fee to be a barrier to entry, so we offer financial assistance to waive the fee for students who need it. If you need financial aid, please reach out to one of the mentors.
 
 ## Subteams
 
@@ -63,5 +63,3 @@ Attend the interest meeting on **DATE** at **TIME** in **LOCATION**.
 ## How to join (RCHS Students)
 
 Steps will be released shortly.
-
-_\*The initial registration fee will only include 50% of all trip costs if attendance requirements are met_
