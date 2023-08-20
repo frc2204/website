@@ -2,5 +2,4 @@ User-agent: *
 Disallow: /members
 Disallow: /leadership
 Disallow: /alumni
-
 Sitemap: https://rambots.org/sitemap.xml
