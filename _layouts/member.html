@@ -33,6 +33,7 @@ layout: default
         {% endif %}
 
 
+
         {% if page.year_ended %}
         <span>{{ page.year_started }} - {{ page.year_ended }}</span>
         {% elsif page.graduation_year %}
@@ -52,9 +53,9 @@ layout: default
     </div>
     <div class="wide-image">
         {% if page.profile_pic %}
-        <img src="{{ page.profile_pic | relative_url }}" alt="{{ page.name }}"/>
+        <img src="{{ page.profile_pic | relative_url }}" alt="{{ page.name }}" />
         {% else %}
-        <img src="{{'/assets/team/default.svg' | relative_url }}" alt="{{ leader.name }}"/>
+        <img src="{{'/assets/team/default.svg' | relative_url }}" alt="{{ leader.name }}" />
         {% endif %}
     </div>
 </div>
@@ -63,15 +64,15 @@ layout: default
 {% assign posts = site.posts | where: "author", page.name %}
 
 {% if posts.size > 0 %}
-{% assign posts = posts | sort: "date" | reverse %}
-<h2>Posts by {{ page.name }}</h2>
-{% for post in posts %}
-<div class="card">
-    {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-    <h2><a href="{{ post.url | relative_url }}">{{ post.title }} - {{ post.date | date: date_format }} </a></h2>
-    <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
-</div>
-{% endfor %}
+    {% assign posts = posts | sort: "date" | reverse %}
+    <h2>Posts by {{ page.name }}</h2>
+    {% for post in posts %}
+        <div class="card">
+            {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+            <h2><a href="{{ post.url | relative_url }}">{{ post.title }} - {{ post.date | date: date_format }}  </a></h2>
+            <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
+        </div>
+    {% endfor %}
 {% else %}
-<h2>No posts by {{ page.name }}</h2>
+    <h2>No posts by {{ page.name }}</h2>
 {% endif %}

@@ -10,8 +10,4 @@ tags:
   - core
   - business
 ---
-
-I'm Aiden Lee, this year's business lead. And no, that fact that I boast a 5’11 height and physically tower over the
-majority of people that I’m around does not indicate that I'm a senior. I like to write random stories and songs (in
-which you can DM me for requests). I also like to quote things that people say. I always strive to lead business well
-and push the team towards its best!
+I'm Aiden Lee, this year's business lead. And no, that fact that I boast a 5’11 height and physically tower over the majority of people that I’m around does not indicate that I'm a senior. I like to write random stories and songs (in which you can DM me for requests). I also like to quote things that people say. I always strive to lead business well and push the team towards its best!

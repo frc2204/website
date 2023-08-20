@@ -9,5 +9,4 @@ tags:
   - build
   - RCS
 ---
-
 Military enthusiast, engineer, med school (hopefully)
