@@ -44,6 +44,7 @@ member_bio_length: 100
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 collections:
   mentors:
