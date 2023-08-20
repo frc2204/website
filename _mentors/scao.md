@@ -8,4 +8,7 @@ tags:
   - business
   - build
 ---
-Sam provides guidance in engineering problem solving, project management, CAD, rapid prototyping, and 3D printing. As a former student of our program, he has shared his experience and knowledge with our students, and has been a positive role model, demonstrating the principles of FIRST through Gracious Professionalism.
+
+Sam provides guidance in engineering problem solving, project management, CAD, rapid prototyping, and 3D printing. As a
+former student of our program, he has shared his experience and knowledge with our students, and has been a positive
+role model, demonstrating the principles of FIRST through Gracious Professionalism.

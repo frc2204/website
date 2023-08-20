@@ -10,4 +10,6 @@ tags:
   - software
   - electrical
 ---
-last year here, but I'm looking forward to another year of robotics, I like electrical, programming, and almost anything robotics related
+
+last year here, but I'm looking forward to another year of robotics, I like electrical, programming, and almost anything
+robotics related

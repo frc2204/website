@@ -4,9 +4,13 @@ title: Contact
 permalink: /contact/
 hidden: true
 ---
+
 # Email
+
 {{ site.email }}
+
 # Mailing Address
+
 California Crosspoint Academy
 <br>
 Attn: Earl Chen

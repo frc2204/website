@@ -1,14 +1,18 @@
 <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  {%- seo -%}
-  <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
-  <link rel="icon" type="image/x-icon" href="{{ "/assets/favicon.ico" | relative_url }}">
-  <script src="/assets/lazy.min.js" async></script>
-  {%- feed_meta -%}
-  {% include slider_styles.html %}
-  {%- if jekyll.environment == 'production'  -%}
-    <script async src="https://altcs.rambots.org/altcs.js" data-ackee-server="https://altcs.rambots.org" data-ackee-domain-id="42044c3d-e010-4ed3-98b6-691e2da0fba0" data-ackee-opts='{ "ignoreLocalhost": true, "detailed": true }'></script>
-  {%- endif -%}
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    {%- seo -%}
+    <link rel="stylesheet" href="{{ "
+    /assets/main.css" | relative_url }}">
+    <link rel="icon" type="image/x-icon" href="{{ "
+    /assets/favicon.ico" | relative_url }}">
+    <script src="/assets/lazy.min.js" async></script>
+    {%- feed_meta -%}
+    {% include slider_styles.html %}
+    {%- if jekyll.environment == 'production' -%}
+    <script async src="https://altcs.rambots.org/altcs.js" data-ackee-server="https://altcs.rambots.org"
+            data-ackee-domain-id="42044c3d-e010-4ed3-98b6-691e2da0fba0"
+            data-ackee-opts='{ "ignoreLocalhost": true, "detailed": true }'></script>
+    {%- endif -%}
 </head>

@@ -11,6 +11,7 @@ tags:
   - software
   - build
 ---
+
 last year here, 2nd year as team captain. ready to go out with a bang!
 
 programming nerd, av enthusiast, and academic weapon (sometimes).

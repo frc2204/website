@@ -12,42 +12,42 @@ layout: page
 <h2 id="mentors">Mentors</h2>
 
 {% for mentor in mentors %}
-  <div class="wide-banner">
+<div class="wide-banner">
     {% if mentor.profile_pic %}
-      <img src="/assets/profile/{{ mentor.profile_pic | relative_url }}" alt="{{ mentor.name }}" />
+    <img src="/assets/profile/{{ mentor.profile_pic | relative_url }}" alt="{{ mentor.name }}"/>
     {% else %}
-      <img src="{{'/assets/team/default.svg' | relative_url }}" alt="{{ mentor.name }}" />
+    <img src="{{'/assets/team/default.svg' | relative_url }}" alt="{{ mentor.name }}"/>
     {% endif %}
     <div class="wide-info">
-      <div class="wide-name" ><a href="{{ mentor.url | relative_url }}">{{ mentor.name }}</a></div>
+        <div class="wide-name"><a href="{{ mentor.url | relative_url }}">{{ mentor.name }}</a></div>
 
-      {% if mentor.position and mentor.job %}
+        {% if mentor.position and mentor.job %}
         <div class="wide-occupation">{{ mentor.position }} - {{ mentor.job }}</div>
-      {% elsif mentor.position %}
+        {% elsif mentor.position %}
         <div class="wide-occupation">{{ mentor.position }}</div>
-      {% elsif mentor.job %}
+        {% elsif mentor.job %}
         <div class="wide-occupation">{{ mentor.job }}</div>
-      {% endif %}
+        {% endif %}
 
-      {% if mentor.email %}
+        {% if mentor.email %}
         <span><a href="mailto:{{ mentor.email }}">{{ mentor.email }}</a></span>
-      {% endif %}
+        {% endif %}
 
-      {% if mentor.year_ended %}
+        {% if mentor.year_ended %}
         <span>{{ mentor.year_started }} - {{ mentor.year_ended }}</span>
-      {% else %}
+        {% else %}
         <span>{{ mentor.year_started }} - Present </span>
-      {% endif %}
+        {% endif %}
 
-      {% if mentor.tags %}
+        {% if mentor.tags %}
         {% for tag in mentor.tags %}
-          <span class="user-tag">{{ tag | upcase }}</span>
+        <span class="user-tag">{{ tag | upcase }}</span>
         {% endfor %}
-      {% endif %}
+        {% endif %}
 
-      <p>{{ mentor.content | truncate: 300 }}</p>
+        <p>{{ mentor.content | truncate: 300 }}</p>
     </div>
-  </div>
+</div>
 
 {% endfor %}
 
@@ -55,130 +55,130 @@ layout: page
 <h2 id="leaders">Student Leadership</h2>
 
 <div class="member-container">
-  {% for leader in leadership %}
-  <div class="member-banner">
-    <div class="img-container">
-      {% if leader.profile_pic %}
-      <img src="{{ leader.profile_pic | relative_url }}" alt="{{ leader.name }}" />
-      {% else %}
-      <img src="{{'/assets/team/default.svg' | relative_url }}" alt="{{ leader.name }}" />
-      {% endif %}
+    {% for leader in leadership %}
+    <div class="member-banner">
+        <div class="img-container">
+            {% if leader.profile_pic %}
+            <img src="{{ leader.profile_pic | relative_url }}" alt="{{ leader.name }}"/>
+            {% else %}
+            <img src="{{'/assets/team/default.svg' | relative_url }}" alt="{{ leader.name }}"/>
+            {% endif %}
+        </div>
+        <div class="member-info">
+            <div class="member-name"><a href="{{ leader.url | relative_url }}">{{ leader.name }}</a></div>
+
+            <div>{{ leader.role }}</div>
+
+            <div>
+                {% if leader.year_ended %}
+                <span>{{ leader.year_started }} - {{ leader.year_ended }}</span>
+                {% else %}
+                <span>{{ leader.year_started }} - {{ leader.graduation_year }}</span>
+                {% endif %}
+            </div>
+
+            {% if leader.email %}
+            <span><a href="mailto:{{ leader.email }}">{{ leader.email | truncate: 30}}</a></span>
+            {% endif %}
+
+            <div class="member-tags">
+                {% if leader.tags %}
+                {% for tag in leader.tags %}
+                <span class="user-tag">{{ tag | upcase }}</span>
+                {% endfor %}
+                {% endif %}
+            </div>
+
+            <p>{{ leader.content | truncate: site.member_bio_length }}</p>
+        </div>
     </div>
-    <div class="member-info">
-      <div class="member-name" ><a href="{{ leader.url | relative_url }}">{{ leader.name }}</a></div>
 
-      <div>{{ leader.role }}</div>
-
-      <div>
-          {% if leader.year_ended %}
-          <span>{{ leader.year_started }} - {{ leader.year_ended }}</span>
-          {% else %}
-          <span>{{ leader.year_started }} - {{ leader.graduation_year }}</span>
-          {% endif %}
-      </div>
-
-      {% if leader.email %}
-      <span><a href="mailto:{{ leader.email }}">{{ leader.email | truncate: 30}}</a></span>
-      {% endif %}
-
-      <div class="member-tags">
-        {% if leader.tags %}
-        {% for tag in leader.tags %}
-        <span class="user-tag">{{ tag | upcase }}</span>
-        {% endfor %}
-        {% endif %}
-      </div>
-
-      <p>{{ leader.content | truncate: site.member_bio_length }}</p>
-    </div>
-  </div>
-
-  {% endfor %}
+    {% endfor %}
 </div>
 
 
 <h2 id="members">Members</h2>
 <div class="member-container">
-  {% for member in members %}
-  <div class="member-banner">
-    <div class="img-container">
-      {% if member.profile_pic %}
-      <img src="{{ member.profile_pic | relative_url }}" alt="{{ member.name }}" />
-      {% else %}
-      <img src="{{'/assets/team/default.svg' | relative_url }}" alt="{{ member.name }}" />
-      {% endif %}
+    {% for member in members %}
+    <div class="member-banner">
+        <div class="img-container">
+            {% if member.profile_pic %}
+            <img src="{{ member.profile_pic | relative_url }}" alt="{{ member.name }}"/>
+            {% else %}
+            <img src="{{'/assets/team/default.svg' | relative_url }}" alt="{{ member.name }}"/>
+            {% endif %}
+        </div>
+        <div class="member-info">
+            <div class="member-name"><a href="{{ member.url | relative_url }}">{{ member.name }}</a></div>
+
+            <div>{{ member.role }}</div>
+
+            <div>
+                {% if member.year_ended %}
+                <span>{{ member.year_started }} - {{ member.year_ended }}</span>
+                {% else %}
+                <span>{{ member.year_started }} - {{ member.graduation_year }}</span>
+                {% endif %}
+            </div>
+
+            {% if member.email %}
+            <span><a href="mailto:{{ member.email }}">{{ member.email | truncate: 30}}</a></span>
+            {% endif %}
+
+            <div class="member-tags">
+                {% if member.tags %}
+                {% for tag in member.tags %}
+                <span class="user-tag">{{ tag | upcase }}</span>
+                {% endfor %}
+                {% endif %}
+            </div>
+
+            <p>{{ member.content | truncate: site.member_bio_length }}</p>
+        </div>
     </div>
-    <div class="member-info">
-      <div class="member-name" ><a href="{{ member.url | relative_url }}">{{ member.name }}</a></div>
 
-      <div>{{ member.role }}</div>
-
-      <div>
-        {% if member.year_ended %}
-        <span>{{ member.year_started }} - {{ member.year_ended }}</span>
-        {% else %}
-        <span>{{ member.year_started }} - {{ member.graduation_year }}</span>
-        {% endif %}
-      </div>
-
-      {% if member.email %}
-      <span><a href="mailto:{{ member.email }}">{{ member.email | truncate: 30}}</a></span>
-      {% endif %}
-
-      <div class="member-tags">
-        {% if member.tags %}
-        {% for tag in member.tags %}
-        <span class="user-tag">{{ tag | upcase }}</span>
-        {% endfor %}
-        {% endif %}
-      </div>
-
-      <p>{{ member.content | truncate: site.member_bio_length }}</p>
-    </div>
-  </div>
-
-  {% endfor %}
+    {% endfor %}
 </div>
 <h2 id="alumni">Alumni</h2>
 
 <div class="member-container">
-  {% for alum in alumni %}
-  <div class="member-banner">
-    <div class="img-container">
-      {% if alum.profile_pic %}
-      <img src="{{ alum.profile_pic | relative_url }}" alt="{{ alum.name }}" />
-      {% else %}
-      <img src="{{'/assets/team/default.svg' | relative_url }}" alt="{{ alum.name }}" />
-      {% endif %}
+    {% for alum in alumni %}
+    <div class="member-banner">
+        <div class="img-container">
+            {% if alum.profile_pic %}
+            <img src="{{ alum.profile_pic | relative_url }}" alt="{{ alum.name }}"/>
+            {% else %}
+            <img src="{{'/assets/team/default.svg' | relative_url }}" alt="{{ alum.name }}"/>
+            {% endif %}
+        </div>
+        <div class="member-info">
+            <div class="member-name"><a href="{{ alum.url | relative_url }}">{{ alum.name }}</a></div>
+
+            {% if alum.major %}
+            <div> {{ alum.major | truncate: 32 }}</div>
+            {% endif %}
+
+            {% if alum.college %}
+            <span class="alumni-college"> {{ alum.college }} </span>
+            {% endif %}
+
+            <div>
+                <span>Class of {{ alum.graduation_year }}</span>
+            </div>
+
+            <div class="member-tags">
+                {% if alum.roles %}
+                {% for tag in alum.roles %}
+                <span class="user-tag">{{ tag | upcase }}</span>
+                {% endfor %}
+                {% endif %}
+            </div>
+
+            <p>{{ alum.content | truncate: site.member_bio_length }}</p>
+        </div>
     </div>
-    <div class="member-info">
-      <div class="member-name" ><a href="{{ alum.url | relative_url }}">{{ alum.name }}</a></div>
 
-      {% if alum.major %}
-        <div> {{ alum.major | truncate: 32 }}</div>
-      {% endif %}
-
-      {% if alum.college %}
-        <span class="alumni-college"> {{ alum.college }} </span>
-      {% endif %}
-
-      <div>
-        <span>Class of {{ alum.graduation_year }}</span>
-      </div>
-
-      <div class="member-tags">
-        {% if alum.roles %}
-        {% for tag in alum.roles %}
-        <span class="user-tag">{{ tag | upcase }}</span>
-        {% endfor %}
-        {% endif %}
-      </div>
-
-      <p>{{ alum.content | truncate: site.member_bio_length }}</p>
-    </div>
-  </div>
-
-  {% endfor %}
+    {% endfor %}
 </div>
 
 {% include render_time.html %}

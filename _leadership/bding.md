@@ -8,4 +8,6 @@ priority: 2
 tags:
   - business
 ---
-Hey, I'm Brian, the business lead for Team 2204, the FIRST Robotics team. My job is to handle finances, secure sponsorships and grants, and engage with the community. I like playing video games and coding.
+
+Hey, I'm Brian, the business lead for Team 2204, the FIRST Robotics team. My job is to handle finances, secure
+sponsorships and grants, and engage with the community. I like playing video games and coding.
