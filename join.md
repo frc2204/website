@@ -22,7 +22,7 @@ During each season, which falls between March and April, our team anticipates pa
 
 #### Costs
 
-The cost to join the team is $400, which covers the cost of team registration, materials, tools, and other expenses. However, we do not want the fee to be a barrier to entry, so we offer financial assistance to waive the fee for students who need it. If you need financial aid, please reach out to one of the mentors.
+The cost to join the team is $400, which covers the cost of team registration, materials, tools, and other expenses. Costs for trips to competitions are not included. However, we do not want the fee to be a barrier to entry, so we offer financial assistance to waive the fee for students who need it. If you need financial aid, please reach out to one of the mentors.
 
 ## Subteams
 
