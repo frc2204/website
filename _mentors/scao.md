@@ -1,6 +1,6 @@
 ---
 name: Sam Cao
-job: Engineering at Vantage Robotics & CCA Resident Assistant
+job: Vantage Robotics & CCA Resident Assistant
 year_started: 2022
 tags:
   - cca
