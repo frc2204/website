@@ -1,6 +1,6 @@
 User-agent: *
-Disallow: /
+Disallow: /members
+Disallow: /leadership
+Disallow: /alumni
 
-Allow: /$
-Allow: /about
-Allow: /sponsors
+Sitemap: https://rambots.org/sitemap.xml
