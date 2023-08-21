@@ -6,6 +6,7 @@ year_started: 2013
 tags:
   - cca
   - business
+  - alumni
 ---
 
 Melissa Fong 
