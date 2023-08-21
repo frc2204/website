@@ -9,4 +9,7 @@ tags:
   - electrical
   - cad/design
 ---
-Gary Gin is the most experienced mentor on our team, having been with us from when the team started. He is highly skilled in various areas, including mechanical engineering, design, and electrical systems. Gary has also been a competitor on the popular television show, BattleBots.
+
+Gary Gin is the most experienced mentor on our team, having been with us from when the team started. He is highly
+skilled in various areas, including mechanical engineering, design, and electrical systems. Gary has also been a
+competitor on the popular television show, BattleBots.
