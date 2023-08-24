@@ -15,12 +15,18 @@ Registration to join the team is now open for the 2023-2024 season! Students enr
 
 The team is entirely student-led, with help from our experienced [mentors](/members#mentors) and teachers. The season begins in early January and ends mid-March. However, students are expected to attend pre-season meetings and workshops. During the season, you can expect **~23 hours of meetings every week**. Members must be able to **attend a minimum 70% of all meetings (~16 hours)**.
 
+#### 2023-2024 Season Overall Schedule
+- **September --> December** - Pre Season Training
+- **January 6, 2024** - Season Kickoff - [CRESCENDO℠ presented by Haas](https://www.firstinspires.org/robotics/frc/game-and-season)
+- **January --> Early March** - Build Season
+- **Mid March --> Mid April** - Competitions
+
 During each season, which falls between March and April, our team anticipates participating in 2-3 of the following competitions:
 
 - [Sacramento Regional at UC Davis](https://cafirst.org/frc/sacramento/)
 - [Silicon Valley Regional at San Jose State University](https://cafirst.org/frc/siliconvalley/) and/or the [San Francisco Regional](https://cafirst.org/frc/sanfrancisco/)
 
-#### Costs
+#### Team Costs
 
 The cost to join the team is $400, which covers the cost of team registration, materials, tools, and other expenses. Costs for trips to competitions are not included. However, we do not want the fee to be a barrier to entry, so we offer financial assistance to waive the fee for students who need it. If you need financial aid, please reach out to one of the mentors.
 
@@ -28,11 +34,11 @@ The cost to join the team is $400, which covers the cost of team registration, m
 
 Our team has 5 subteams you can join.
 
-### Fabrication and Design
+### Build and Design
 
-The fabrication team is responsible for translating creative concepts and engineering specifications into tangible and functional robot components. This team's role involves brainstorming innovative ideas, generating detailed design plans, and utilizing CAD software ([Autodesk Fusion 360](https://www.autodesk.com/products/fusion-360/overview)) to develop a functional and efficient robot. They also employ a diverse range of skills, including metalworking, machining, 3D printing, and more, to create precise and functional robot parts. This team collaborates closely with other subteams to analyze game challenges, brainstorm innovative solutions, and design intricate mechanical and structural elements that align with the team's strategic goals.
+The build team is responsible for translating creative concepts and engineering specifications into tangible and functional robot components. This team's role involves brainstorming innovative ideas, generating detailed design plans, and utilizing CAD software ([Autodesk Fusion 360](https://www.autodesk.com/products/fusion-360/overview)) to develop a functional and efficient robot. They also employ a diverse range of skills, including metalworking, machining, 3D printing, and more, to create precise and functional robot parts. This team collaborates closely with other subteams to analyze game challenges, brainstorm innovative solutions, and design intricate mechanical and structural elements that align with the team's strategic goals.
 
-The fabrication team lead this season is [Ethan Wu](/leadership/ewu)
+The build team lead this season is [Ethan Wu](/leadership/ewu)
 
 ### Electrical
 
@@ -52,14 +58,10 @@ The business subteam is responsible for managing the non-technical aspects of th
 
 The business team lead this season is [Brian Ding](/leadership/bding) and [Aiden Lee](/leadership/alee)
 
-## How to join (CCHS Students)
-
-- First, fill out the [permission slip](https://go.rambots.org/permission-slip) and turn it in to the front office.
-- Next, fill out the [application form](https://go.rambots.org/application) and submit it.
-- Read the [student handbook](https://go.rambots.org/handbook).
+## Joining the Team (for CCA Students)
 
 Attend the interest meeting on **DATE** at **TIME** in **LOCATION**.
 
-## How to join (RCHS Students)
+## Joining the Team (for RCHS Students)
 
-Steps will be released shortly.
+Coming soon.
