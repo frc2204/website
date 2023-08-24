@@ -15,6 +15,6 @@ last year here, 2nd year as team captain. ready to go out with a bang!
 
 programming nerd, av enthusiast, and academic weapon (sometimes).
 
-talk to me about random crap!
+talk to me about random stuff!
 
 visit my personal website [twango.dev](https://twango.dev) for more info about me.
