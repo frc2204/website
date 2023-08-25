@@ -1,17 +1,17 @@
 ---
 layout: page
-title: Joining the Rambots
-permalink: /join/
+title: Joining the Rambots (RCS Edition)
+permalink: /rcs-join/
 hidden: true
 ---
-
 > Note: This page is still under construction. Check back later for more information.
 
-![banner](https://cdn.discordapp.com/attachments/1139775932127789137/1142308556092215296/Innovate_Beyond.png)
-
-Registration to join the team is now open for the 2023-2024 season! Students enrolled at California Crosspoint High School and Redwood Christian High School are eligible to join the team.
+Registrations to join the team for Redwood Christian students are now open for the 2023-2024 season!
 
 **No prior experience or knowledge is required. All knowledge will be taught to members during pre-season.**
+
+All meetings will be held at [California Crosspoint Academy](https://crosspointacademy.org).<br>
+If you are intrested in joining the carpool, please contact [Samuel Chen](/leadership/schen), the RCS Recruitment Lead.
 
 The team is entirely student-led, with help from our experienced [mentors](/members#mentors) and teachers. The season begins in early January and ends mid-March. However, students are expected to attend pre-season meetings and workshops. During the season, you can expect **~23 hours of meetings every week**. Members must be able to **attend a minimum 70% of all meetings (~16 hours)**.
 
@@ -54,10 +54,6 @@ The business team is responsible for managing the non-technical aspects of the t
 
 The business team lead this season is [Brian Ding](/leadership/bding) and [Aiden Lee](/leadership/alee)
 
-## Joining the Team (for CCA Students)
-
-Attend the interest meeting on **DATE** at **TIME** in **LOCATION**.
-
-## Joining the Team (for RCS Students)
-
-More information at [rcs.rambots.org](https://rcs.rambots.org)
+## Joining the Team
+Please fill out **[this form](https://forms.office.com/r/fACbpvaMXD)** if you are intrested to join.<br>
+A member of our team will contact you with further details.
