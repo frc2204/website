@@ -10,8 +10,8 @@ Registrations to join the team for Redwood Christian students are now open for t
 
 **No prior experience or knowledge is required. All knowledge will be taught to members during pre-season.**
 
-All meetings will be held at [California Crosspoint Academy](https://crosspointacademy.org).<br>
-If you are intrested in joining the carpool, please contact [Samuel Chen](/leadership/schen), the RCS Recruitment Lead.
+**All meetings will be held at [California Crosspoint Academy](https://crosspointacademy.org).**<br>
+If you are interested in joining the carpool, please contact [Samuel Chen](/leadership/schen), the RCS Recruitment Lead.
 
 The team is entirely student-led, with help from our experienced [mentors](/members#mentors) and teachers. The season begins in early January and ends mid-March. However, students are expected to attend pre-season meetings and workshops. During the season, you can expect **~23 hours of meetings every week**. Members must be able to **attend a minimum 70% of all meetings (~16 hours)**.
 
