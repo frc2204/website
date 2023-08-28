@@ -39,4 +39,4 @@ If you would like to donate to our team, please see our [donation page](/donate)
 </div>
 
 [contact]: /contact.md/
-[sponsorship-packet]: https://cdn.discordapp.com/attachments/1031787835587563564/1138359376969728010/rambots-sponsorship-packet.pdf
+[sponsorship-packet]: https://cdn.discordapp.com/attachments/1027309691551891536/1144116536378929172/rambots_sponsorship_packet.pdf
