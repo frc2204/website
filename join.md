@@ -15,16 +15,26 @@ The team is entirely student-led, with help from our experienced [mentors](/memb
 
 #### 2023-2024 Season Overall Schedule
 
-- **September --> December** - Pre Season Training
-- **January 6, 2024** - Season Kickoff - [CRESCENDO℠ presented by Haas](https://www.firstinspires.org/robotics/frc/game-and-season)
-- **January --> Early March** - Build Season
-- **Mid March --> Mid April** - Competitions
+- **September - December**: Pre Season Training
+- **January 6, 2024**: Season Kickoff [CRESCENDO℠ presented by Haas](https://www.firstinspires.org/robotics/frc/game-and-season)
+- **January - Early March**: Build Season
+- **Mid March - Mid April**: Competitions
 
 During each season, which falls between March and April, our team anticipates participating in 2-3 of the following competitions:
 
 - [Sacramento Regional at UC Davis](https://cafirst.org/frc/sacramento/)
 - [Silicon Valley Regional at San Jose State University](https://cafirst.org/frc/siliconvalley/) and/or the [San Francisco Regional](https://cafirst.org/frc/sanfrancisco/)
 
+## Joining the Team (for CCA Students)
+
+The team will be at the CCA Club Fair demonstrating our robot and answering any of your questions.<br>
+There will be an interest meeting on Wednesday, Sep 6, 2023 during Lunch. See the [schedule](/schedule) for more details.
+
+**If you weren't able to sign up during club fair, fill out this [form](https://go.rambots.org/interest)!**
+
+## Joining the Team (for RCS Students)
+
+Information coming soon.
 ## Subteams
 
 Our team has 5 subteams you can join.
@@ -53,11 +63,3 @@ The business team is responsible for managing the non-technical aspects of the t
 
 The business team lead this season is [Brian Ding](/leadership/bding) and [Aiden Lee](/leadership/alee)
 
-## Joining the Team (for CCA Students)
-
-The team will be at the CCA Club Fair demonstrating our robot and answering any of your questions.<br>
-There will be an interest meeting on Wednesday, Sep 6, 2023 during Lunch
-
-## Joining the Team (for RCS Students)
-
-Information coming soon.
