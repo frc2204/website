@@ -11,7 +11,7 @@ Registration to join the team is now open for the 2023-2024 season! Students enr
 
 **No prior experience or knowledge is required. All knowledge will be taught to members during pre-season.**
 
-The team is entirely student-led, with help from our experienced [mentors](/members#mentors) and teachers. The season begins in early January and ends mid-March. However, students are expected to attend pre-season meetings and workshops. During the season, you can expect **~23 hours of meetings every week**. Members must be able to **attend a minimum 70% of all meetings (~16 hours)**.
+The team is entirely student-led, with help from our experienced [mentors](/members#mentors) and teachers. The season begins in early January and ends mid-March. However, students are expected to attend pre-season meetings and workshops.
 
 #### 2023-2024 Season Overall Schedule
 
