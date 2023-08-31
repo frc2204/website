@@ -5,8 +5,6 @@ permalink: /join/
 hidden: true
 ---
 
-> Note: This page is still under construction. Check back later for more information.
-
 ![banner](https://cdn.discordapp.com/attachments/1139775932127789137/1142308556092215296/Innovate_Beyond.png)
 
 Registration to join the team is now open for the 2023-2024 season! Students enrolled at California Crosspoint High School and Redwood Christian High School are eligible to join the team.
@@ -16,6 +14,7 @@ Registration to join the team is now open for the 2023-2024 season! Students enr
 The team is entirely student-led, with help from our experienced [mentors](/members#mentors) and teachers. The season begins in early January and ends mid-March. However, students are expected to attend pre-season meetings and workshops. During the season, you can expect **~23 hours of meetings every week**. Members must be able to **attend a minimum 70% of all meetings (~16 hours)**.
 
 #### 2023-2024 Season Overall Schedule
+
 - **September --> December** - Pre Season Training
 - **January 6, 2024** - Season Kickoff - [CRESCENDO℠ presented by Haas](https://www.firstinspires.org/robotics/frc/game-and-season)
 - **January --> Early March** - Build Season
@@ -56,8 +55,9 @@ The business team lead this season is [Brian Ding](/leadership/bding) and [Aiden
 
 ## Joining the Team (for CCA Students)
 
-Attend the interest meeting on **DATE** at **TIME** in **LOCATION**.
+The team will be at the CCA Club Fair demonstrating our robot and answering any of your questions.<br>
+There will be an interest meeting on Wednesday, Sep 6, 2023 during Lunch
 
 ## Joining the Team (for RCS Students)
 
-More information at [rcs.rambots.org](https://rcs.rambots.org)
+Information coming soon.
