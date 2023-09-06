@@ -1,6 +1,7 @@
 ---
 name: Bryan Yu
 email: bryanyu24@crosspointacademy.org
+profile_pic: /assets/profile-picture/byu.jpg
 role: EECS Lead
 year_started: 2020
 graduation_year: 2024
