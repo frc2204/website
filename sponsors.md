@@ -6,7 +6,7 @@ permalink: /sponsors/
 Thank you to all of our sponsors that make our team possible. With your support we are able to give students the 
 opportunity to become the STEM leaders of the future.
 
-If you are interested in sponsoring us, please [contact us](contact.md) and see our [sponsorship packet][/assets/biz/sponsorship_packet.pdf].
+If you are interested in sponsoring us, please [contact us](contact.md) and see our [sponsorship packet][sponsorship_packet].
 
 ## Donations
 If you would like to donate to our team, please see our [donation page](/donate).
@@ -39,3 +39,4 @@ If you would like to donate to our team, please see our [donation page](/donate)
 </div>
 
 [contact]: /contact.md/
+[sponsorship_packet]: /assets/biz/sponsorship_packet.pdf
