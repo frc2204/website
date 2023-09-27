@@ -1,5 +1,6 @@
 ---
 name: Brandon Lee
+profile_pic: /assets/alumni_profile_pics/blee.jpg
 graduation_year: 2023
 college: University of California, Santa Cruz
 major: Robotics Engineering

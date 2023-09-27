@@ -1,5 +1,6 @@
 ---
 name: Christine Lai
+profile_pic: /assets/alumni_profile_pics/clai.jpg
 graduation_year: 2023
 college: University of Southern California
 major: Computer Science & Arts, Technology, and the Business of Innovation

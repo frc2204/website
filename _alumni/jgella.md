@@ -1,5 +1,6 @@
 ---
 name: Josiah Gella
+profile_pic: /assets/alumni_profile_pics/jgella.jpg
 graduation_year: 2023
 college: San Diego State University
 major: Journalism
