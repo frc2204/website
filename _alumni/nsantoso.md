@@ -1,5 +1,6 @@
 ---
 name: Nathaniel Santoso
+profile_pic: /assets/alumni_profile_pics/nsantoso.jpg
 graduation_year: 2023
 college: University of California, Berkeley
 major: Business Administration

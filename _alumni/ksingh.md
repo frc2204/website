@@ -1,5 +1,6 @@
 ---
 name: Kirat Singh
+profile_pic: /assets/alumni_profile_pics/ksingh.jpg
 graduation_year: 2023
 college: University of California, Davis
 major: Data Science

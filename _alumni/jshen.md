@@ -1,5 +1,6 @@
 ---
 name: Jeremy Shen
+profile_pic: /assets/alumni_profile_pics/jshen.jpg
 college: University of California, Los Angeles
 major: Mechanical Engineering
 graduation_year: 2023

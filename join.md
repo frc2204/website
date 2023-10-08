@@ -5,7 +5,7 @@ permalink: /join/
 hidden: true
 ---
 
-![banner](https://cdn.discordapp.com/attachments/1139775932127789137/1142308556092215296/Innovate_Beyond.png)
+![banner](https://2024cdn.rambots.org/Innovate_Beyond.png)
 
 Registration to join the team is now open for the 2023-2024 season! Students enrolled at California Crosspoint High School and Redwood Christian High School are eligible to join the team.
 
