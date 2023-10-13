@@ -28,6 +28,9 @@
     - data-src: assets/sponsor_banners/gene_banner.jpg
       title: Gene Haas Foundation
       alt: Gene Haas Foundation
+    - data-src: assets/sponsor_banners/te_banner.jpg
+      title: TE Connectivity
+      alt: TE Connectivity
     - data-src: assets/sponsor_banners/minuteman_banner.jpg
       title: Minuteman Press
       alt: Minuteman Press
