@@ -11,11 +11,11 @@ author: James Ding
 We won the creativity award for our TPU claw idea/design! We’ll try to have business team turn that into a potential
 sponsorship from Bambu Labs?
 
-![team photo](https://2024cdn.rambots.org/team-photo.png)
+![team photo](https://cdn.2024.rambots.org/team-photo.png)
 
-![award photo](https://2024cdn.rambots.org/award-photo.png)
+![award photo](https://cdn.2024.rambots.org/award-photo.png)
 
-![ceremony](https://2024cdn.rambots.org/ceremony.png)
+![ceremony](https://cdn.2024.rambots.org/ceremony.png)
 
 ## Rank
 
@@ -24,7 +24,7 @@ to fill in for Finals #2.
 
 Team 2204 currently ranks 1249/3306 worldwide, 1087/2694 nationally, and 111/270 state-wide. We were holding top 15 for
 more than half the time in qualifications though
-![rank](https://2024cdn.rambots.org/rank.png)
+![rank](https://cdn.2024.rambots.org/rank.png)
 
 ## Fails
 

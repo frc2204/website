@@ -8,7 +8,7 @@ author: Brian Ding
 
 # Christine Lai
 
-![Christine](https://2024cdn.rambots.org/Christine.png)
+![Christine](https://cdn.2024.rambots.org/Christine.png)
 During her remarkable four-year tenure with Team 2204, co-captain Christine has consistently displayed extraordinary
 leadership skills, particularly in the business and electrical teams. Her expertise expanded beyond technical matters as
 she effortlessly assumed key roles in the business team. From securing grants to enhance our resources to crafting
@@ -19,7 +19,7 @@ leadership in the business domain has been instrumental in propelling Team 2204 
 
 # Brandon Lee
 
-![Brandon](https://2024cdn.rambots.org/Brandon.png)
+![Brandon](https://cdn.2024.rambots.org/Brandon.png)
 Brandon Lee, a talented member of the programming team, has been instrumental in enhancing the functionality of our
 robot. Beyond his technical contributions, Brandon's lively and sus personality has a contagious effect, bringing joy
 and uplifting the spirits of those around him. During the Davis event, his excellent communication skills enabled him to
@@ -30,7 +30,7 @@ positive energy will continue to drive him towards great success in his future e
 
 # Suhan Tan
 
-![Suhan](https://2024cdn.rambots.org/Suhan.png)
+![Suhan](https://cdn.2024.rambots.org/Suhan.png)
 Suhan's diverse skill set and initiative shone through as he transitioned seamlessly from being an amazing chef to a
 valuable business member. Drawing from his experience in Student Government, Suhan brought a unique perspective to the
 team and played a pivotal role in planning the UC Davis trip. His organizational abilities and attention to detail
@@ -40,7 +40,7 @@ success, leaving a lasting impact on the team's growth and development.
 
 # Jeremy Shen
 
-![Jeremy](https://2024cdn.rambots.org/Jeremy.png)
+![Jeremy](https://cdn.2024.rambots.org/Jeremy.png)
 Former Safety Captain and this year’s CAD captain, Jeremy has been with Team 2204 for the past 4 years. His expertise in
 design has been instrumental in shaping some of the most crucial components of the team's robots, from the winch in
 Rapid React to Jeremy’s input into designing the massive claw in Charged Up. Beyond his expertise in design, Jeremy's
@@ -51,7 +51,7 @@ on Team 2204. His contributions have helped shape the team's robots and propel t
 
 # Caleb Tam
 
-![Caleb](https://2024cdn.rambots.org/Caleb.png)
+![Caleb](https://cdn.2024.rambots.org/Caleb.png)
 Caleb, a member of the business team, has been excellent in scouting a variety of teams at the Davis competition each
 year. He is a leader by example, not afraid to approach other teams and discuss robotics. Not limited to only the
 business team, Caleb relays critical information for the drive team, helping Team 2204 better communicate with its
@@ -61,7 +61,7 @@ success and cohesion.
 
 # Nathaniel Santoso
 
-![Nato](https://2024cdn.rambots.org/Nato.png)
+![Nato](https://cdn.2024.rambots.org/Nato.png)
 Business team captain Nathaniel coordinated many business meetings and focused on grants to benefit Team 2204. Leading
 the business team this year, Nato was successful in writing and receiving many grants. During the Davis competition,
 Nato was full of team spirit, willing to wear the ram hats to represent Team 2204. His willingness to engage in
@@ -71,7 +71,7 @@ have significantly contributed to the team's growth and achievements.
 
 # Josiah Gella
 
-![Josiah](https://2024cdn.rambots.org/Josiah.png)
+![Josiah](https://cdn.2024.rambots.org/Josiah.png)
 Congratulations to Josiah on his graduation and a heartfelt thank you for his outstanding dedication to our team. His
 exceptional work on the business team, securing grants and fostering communication with other teams, has been
 instrumental in our success. We are grateful for his membership/time and wish him continued success and happiness in all
@@ -79,7 +79,7 @@ his future endeavors.
 
 # Kirat Singh
 
-![Kirat](https://2024cdn.rambots.org/Kirat.png)
+![Kirat](https://cdn.2024.rambots.org/Kirat.png)
 Kirat, our esteemed electrical team captain, has played a vital role as one of the pioneers in shaping the electrical
 team of Team 2204. His expertise spans from mastering simple wire connections to advanced skills such as crimping and
 pneumatics, making him a comprehensive resource for all things related to the robot's electrical systems. In the fall,
