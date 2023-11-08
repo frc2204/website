@@ -1,6 +1,6 @@
 ---
 name: Gabriel Aceves
-email: GabrielAceves26@crosspointacademy.org
+email: gabrielaceves26@crosspointacademy.org
 year_started: 2023
 graduation_year: 2026
 tags:
