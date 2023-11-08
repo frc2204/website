@@ -1,6 +1,6 @@
 ---
-name: Ian Ing
-email: ian.ng26@crosspointacademy.org
+name: Ian Ng
+email: ianng26@crosspointacademy.org
 year_started: 2023
 graduation_year: 2026
 tags:
