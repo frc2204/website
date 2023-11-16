@@ -4,9 +4,9 @@ email: aidentoy25@crosspointacademy.org
 year_started: 2022
 graduation_year: 2025
 tags:
-    -  Fabrication
+    -  Build
     -  Cad/Design
-    -  Programming
+    -  Software
     -  Electrical
 ---
 idk
