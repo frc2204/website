@@ -19,24 +19,24 @@
 - selector: sponsor_slider
   captions: false
   images:
-    - data-src: assets/sponsor_banners/analog_banner.jpg
-      title: Analog Devices
-      alt: Analog Devices
+    # - data-src: assets/sponsor_banners/analog_banner.jpg
+    #   title: Analog Devices
+    #   alt: Analog Devices
     - data-src: assets/sponsor_banners/bae_banner.jpg
       title: BAE Systems
       alt: BAE Systems
+    - data-src: assets/sponsor_banners/baxter_banner.jpg
+      title: Baxter
+      alt: Baxter
     - data-src: assets/sponsor_banners/gene_banner.jpg
       title: Gene Haas Foundation
       alt: Gene Haas Foundation
     - data-src: assets/sponsor_banners/te_banner.jpg
       title: TE Connectivity
       alt: TE Connectivity
-    - data-src: assets/sponsor_banners/minuteman_banner.jpg
-      title: Minuteman Press
-      alt: Minuteman Press
-    - data-src: assets/sponsor_banners/boku_banner.jpg
-      title: Boku
-      alt: Boku
+    # - data-src: assets/sponsor_banners/boku_banner.jpg
+    #   title: Boku
+    #   alt: Boku
   settings:
     height: "'auto'"
     effect: "'fade'"
