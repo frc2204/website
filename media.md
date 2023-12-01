@@ -10,6 +10,8 @@ permalink: /media/
 
 ## Photos
 
+# [2024 Photos][2024]
+
 # [2023 Photos][2023]
 
 # [2018 Photos][2018]
@@ -31,6 +33,7 @@ permalink: /media/
 # [2010 Photos][2010]
 
 [posts]: /posts/
+[2024]: /media/2024/
 [2023]: /media/2023/
 [2018]: /media/2018/
 [2017]: /media/2017/
