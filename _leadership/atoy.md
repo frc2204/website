@@ -6,6 +6,6 @@ year_started: 2022
 graduation_year: 2025
 priority: 2
 tags:
-  - fabrication
+  - build
 ---
 
