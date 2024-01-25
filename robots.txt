@@ -1,8 +1,2 @@
 User-agent: *
-Disallow: /members
-Disallow: /leadership
-Disallow: /alumni
-Disallow: /mentors
-Disallow: /assets
-
-Sitemap: https://rambots.org/sitemap.xml
+Disallow: /
